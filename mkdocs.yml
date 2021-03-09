@@ -10,6 +10,9 @@ theme:
 nav:
   - Evaluación: index.md
 
+repo_name: team-ittade/ecnm2
+repo_url: https://github.com/team-ittade/ecnm2
+
 extra_css:
     - css/colors.css
     - css/custom.css
@@ -55,3 +58,8 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+
+plugins:
+  - git-revision-date-localized:
+      type: date
+      fallback_to_build_date: true
