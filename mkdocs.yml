@@ -9,6 +9,7 @@ theme:
 
 nav:
   - Evaluación: index.md
+  - Tema 1: tema-1/index.md
 
 repo_name: team-ittade/ecnm2
 repo_url: https://github.com/team-ittade/ecnm2
