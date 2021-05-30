@@ -1,1 +1,0 @@
-# Errores de especificación
